@@ -67,7 +67,10 @@ Here are some ideas to get you started:
 <h3 align="left">Databases:</h3>
 <p align="left">
 
-    <!-- Frameworks -->
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" />
+    </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
             alt="nextjs" width="40" height="40" />
