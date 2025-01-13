@@ -63,11 +63,13 @@ Here are some ideas to get you started:
             alt="typescript" width="40" height="40" />
     </a>
 
-    <!-- Frameworks -->
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
             alt="nextjs" width="40" height="40" />
     </a>
+
+    <!-- Frameworks -->
+
 
 </p>
 
