@@ -31,7 +31,7 @@ Here are some ideas to get you started:
             alt="My LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Techstacks:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!-- Markup & Programming Languages -->
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -62,13 +62,33 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" />
     </a>
+</p>
 
+<h3 align="left">Databases:</h3>
+<p align="left">
+
+    <!-- Frameworks -->
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
             alt="nextjs" width="40" height="40" />
     </a>
-
-    <!-- Frameworks -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
+            alt="tailwindcss" width="40" height="40" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg"
+            alt="prisma" width="40" height="40" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original-wordmark.svg"
+            alt="tRPC" width="40" height="40" />
+    </a>
+</p>
 
 
 </p>
