@@ -25,9 +25,11 @@
 <h3 align="left">Frameworks</h3>
 
 <div style="display: inline-block; font-size: 22px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="25" height="25"> ASP.NET Core |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="25" height="25"> .NET Core API | MVC | 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="25" height="25" style="border-radius: 50%;"> ReactJS |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="25" height="25" style="border-radius: 50%;"> NodeJS |
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
             alt="tailwindcss" width="25" height="25" style="border-radius: 50%;"> Tailwind |
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
