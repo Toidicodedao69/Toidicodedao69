@@ -87,11 +87,3 @@
             alt="vercel" width="50" height="50" />
     </a>
 </p>
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Toidicodedao69&show_icons=true&locale=en&layout=compact"
-        alt="Toidicodedao69" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Toidicodedao69&show_icons=true&locale=en"
-        alt="Toidicodedao69" /></p>
