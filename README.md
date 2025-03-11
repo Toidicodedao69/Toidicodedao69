@@ -13,32 +13,15 @@
 </a>
 
 <h2 align="left">My Techstacks</h2>
-<h3 align="left">Markup & Programming Languages</h3>
-<p align="left">
-    <!-- Markup & Programming Languages -->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="50" height="50" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="50" height="50" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="50" height="50" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="50" height="50" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="50" height="50" />
-    </a>
-    
-</p>
+<h3 align="left">Programming Languages</h3>
 
+<div style="display: inline-block; font-size: 22px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"> C# |
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" style="border-radius: 50%;"> Python |
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" style="border-radius: 50%;"> JavaScript |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"> TypeScript |
+</div>
+   
 <h3 align="left">Frameworks</h3>
 <p align="left">
     <!-- Frameworks -->
