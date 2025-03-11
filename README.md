@@ -19,54 +19,39 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"> C# |
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" style="border-radius: 50%;"> Python |
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" style="border-radius: 50%;"> JavaScript |
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"> TypeScript |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"> TypeScript 
 </div>
    
 <h3 align="left">Frameworks</h3>
-<p align="left">
-    <!-- Frameworks -->
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
-            alt="dotnetcore" width="50" height="50" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="50" height="50" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
-            alt="tailwindcss" width="50" height="50" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
-            alt="bootstrap" width="50" height="50" />
-    </a>
-</p>
+
+<div style="display: inline-block; font-size: 22px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="25" height="25"> ASP.NET Core |
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="25" height="25" style="border-radius: 50%;"> ReactJS |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
+            alt="tailwindcss" width="25" height="25" style="border-radius: 50%;"> Tailwind |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+            alt="bootstrap" width="25" height="25"> Bootsrap 
+</div>
 
 <h3 align="left">Databases</h3>
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="50" height="50" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="50" height="50" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="50" height="50" />
-    </a>
-</p>
+<div style="display: inline-block; font-size: 22px;">
+    MS SQL | 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="25" height="25"> MySQL |
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="25" height="25" style="border-radius: 50%;"> MongoDB |
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="25" height="25" style="border-radius: 50%;"> PostgreSQL
+</div>
 
 <h3 align="left">Tools</h3>
 <p align="left">
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"
-            alt="azure" width="50" height="50" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg"
-            alt="vercel" width="50" height="50" />
-    </a>
-</p>
+<div style="display: inline-block; font-size: 22px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"
+            alt="azure" width="25" height="25"> Azure Cloud |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"
+            alt="githubactions" width="25" height="25" style="border-radius: 50%;"> GitHub Actions |
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg"
+            alt="vercel" width="25" height="25" style="border-radius: 50%;"> Vercel
+</div>
