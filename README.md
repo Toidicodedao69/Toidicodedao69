@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hieu Pham</h1>
+ <h1 align="center">Hi 👋, I'm Hieu Pham</h1>
 <h2 align="center">Full-stack Developer</h2>
 
 - 🌱 I’m currently learning **Docker, AWS**
 
-- 👨‍💻 Checkout my projects [here](https://github.com/Toidicodedao69?tab=repositories)
+- 👨‍💻 Checkout my portfolio: [https://hieu-pham-portfolio.vercel.app/](https://hieu-pham-portfolio.vercel.app/)
 
 - 📫 Reach me at **hieunp.tech.swe@gmail.com**
+
 
 - Connect with me on <a href="https://www.linkedin.com/in/nghia-hieu-pham/" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
